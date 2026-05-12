@@ -1,8 +1,25 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.mangiachristopher1999_a11y.twa",
-    "sha256_cert_fingerprints": ["2A:E2:18:DF:48:24:CB:71:5A:F2:02:17:48:F5:56:80:83:C2:8C:BC:5F:85:65:DF:CE:02:6D:C0:42:9B:1D:07"]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mangiachristopher1999_a11y.twa",
+        "sha256_cert_fingerprints": ["B0:0F:3C:84:04:FE:58:AC:8C:66:8D:E1:DD:FF:B2:44:66:BF:C6:C4:4C:91:E7:47:A1:6B:39:79:8E:04:31:6A"]
+      }
+    }]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mangiachristopher1999_a11y.twa",
+        "sha256_cert_fingerprints": ["BD:FC:FA:11:46:7E:E6:E8:C2:96:CB:85:3D:4D:BA:34:10:B8:4B:89:67:F8:84:91:C8:55:97:9E:FD:54:7D:0E"]
+      }
+    }]
+
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mangiachristopher1999_a11y.twa",
+        "sha256_cert_fingerprints": ["7B:85:B4:D7:F0:C0:63:00:E0:DB:D5:EB:B9:57:D9:6B:0A:4D:92:08:AE:61:3C:2A:A2:65:B4:42:5E:85:FC:0D"]
+      }
+    }]
